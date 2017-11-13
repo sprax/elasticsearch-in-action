@@ -1,4 +1,4 @@
-This repository contains the code examples from the book [*Elasticsearch in Action*][2].
+This repository contains a fork of the code examples from the book [*Elasticsearch in Action*][2].
 
 When do I need them?
 --------------------
